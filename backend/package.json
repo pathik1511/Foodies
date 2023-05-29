@@ -1,0 +1,27 @@
+{
+  "name": "csci5410-serverless-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[D\u001b[D\u001b[D\u001bserver.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google-cloud/aiplatform": "^1.9.1",
+    "@google-cloud/automl": "^2.4.3",
+	"@google-cloud/pubsub": "^2.16.1"
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarthakPatel24/CSCI5410-Serverless-Backend.git"
+  },
+  "author": "Team 4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarthakPatel24/CSCI5410-Serverless-Backend/issues"
+  },
+  "homepage": "https://github.com/SarthakPatel24/CSCI5410-Serverless-Backend#readme"
+}

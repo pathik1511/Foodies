@@ -1,0 +1,30 @@
+.page-container {
+    height: 100%;
+  }
+  
+  .nav-item-icon {
+    padding-right: 0.5rem;
+  }
+  
+  .nav-item {
+    padding: 0.5rem;
+    font-weight: 500;
+    background-color: #e0e1e6;
+    border-radius: 0.5rem;
+  }
+  
+  .nav-item:hover {
+    padding: 0.5rem;
+    font-weight: bold;
+    background-color: #e0e1e6;
+    border-radius: 0.5rem;
+    box-shadow: 1px 4px #d5d1d1;
+  }
+  
+  .nav-item:focus {
+    color: #36369c;
+  }
+  
+  .page-content {
+    height: 34rem;
+  }
